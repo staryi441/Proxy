@@ -2,9 +2,12 @@ name: Auto Parse Proxies
 
 on:
   schedule:
-    # Запуск каждые 6 часов (можешь изменить расписание при желании)
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Позволяет запустить процесс вручную кнопкой в интерфейсе GitHub
+  workflow_dispatch:
+
+# Явно даем права на запись для токена
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
