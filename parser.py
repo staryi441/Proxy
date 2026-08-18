@@ -6,7 +6,11 @@ import json
 # Список публичных Telegram-каналов, откуда собираем прокси (укажи свои)
 CHANNELS = [
     "TProxyRU",        # Пример канала
-    "ProxyMTProto"       # Пример канала
+    "ProxyMTProto",
+    "ProxyFree_Ru",
+    "tgmtproxylol",
+    "tg_proxyz",
+    "proxy_telegramt"
 ]
 
 def fetch_channel_proxies(channel):
