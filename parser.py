@@ -10,7 +10,9 @@ CHANNELS = [
     "ProxyFree_Ru",
     "tgmtproxylol",
     "tg_proxyz",
-    "proxy_telegramt"
+    "proxy_telegramt",
+    "mtproto6",
+    "mtprotoF"
 ]
 
 def fetch_channel_proxies(channel):
