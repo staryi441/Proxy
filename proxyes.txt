@@ -1,1 +1,1 @@
-
+tg://proxy?server=45.147.28.134.tspu.top&port=443&secret=ee461851e70bea3c1c7e03c59e82c4b4777a6f6f6d2e7573
