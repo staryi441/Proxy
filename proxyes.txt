@@ -498,3 +498,8 @@ tg://proxy?server=yeh.topbelka.ru&port=443&secret=ee050c8f82b0877cccd23a08c65f06
 tg://proxy?server=ypoHuJl.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=zenith.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=zone.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+tg://proxy?server=l01.antenna-mzt.live.tspu.top&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe6c30312e616e74656e6e612d6d7a742e6c697665
+tg://proxy?server=45.147.28.134.tspu.top&port=443&secret=ee461851e70bea3c1c7e03c59e82c4b4777a6f6f6d2e7573
+tg://proxy?server=45.147.28.135.tspu.top&port=443&secret=ee8ff6bd31b48abdca2b649440c43ae2517a6f6f6d2e7573
+tg://proxy?server=durovrazreshil.dreamerlook.ru.tspu.top&port=8443&secret=eed537601bac2be07d541ea6de549fc64770726f78792e647265616d65726c6f6f6b2e7275
+tg://proxy?server=proxy.privateproxy.top.tspu.top&port=8443&secret=dd17aca106bf110b8efac6b77a545a8be5
