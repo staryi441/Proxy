@@ -6,8 +6,14 @@ from urllib.parse import urlparse, parse_qs
 
 # Список Telegram-каналов для сбора
 CHANNELS = [
-    "tgproxy",
-    "mtproxy_s"
+    "TProxyRU",        # Пример канала
+    "ProxyMTProto",
+    "ProxyFree_Ru",
+    "tgmtproxylol",
+    "tg_proxyz",
+    "proxy_telegramt",
+    "mtproto6",
+    "mtprotoF"
 ]
 
 def fetch_channel_proxies(channel):
