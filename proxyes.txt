@@ -126,6 +126,7 @@ https://t.me/proxy?server=free.proxy3.lightningvpn.space&port=8443&secret=dd3784
 https://t.me/proxy?server=freeconnect.lol&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 https://t.me/proxy?server=freeinternet.skin&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 https://t.me/proxy?server=fwndwwfr.ddproxy.xyz&port=443&secret=ee095072b53789bdc66d762c8b4ee7806f66776e64777766722e646470726f78792e78797a
+https://t.me/proxy?server=gamerpr.cfd&port=443&secret=ee3cd8b9e99a48486b14d0f6169d0b8d06617669746f2e7275
 https://t.me/proxy?server=gamerpr.cfd&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 https://t.me/proxy?server=gamma-roxy.ip-ddns.com&port=443&secret=7pT8K0hK9uHhyH5ldrM8JXV2ay5jb20
 https://t.me/proxy?server=gamma-roxy.ip-ddns.com&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c2575766b2e636f6d
@@ -300,6 +301,7 @@ tg://proxy?server=45.147.28.135.tspu.top&port=443&secret=ee8ff6bd31b48abdca2b649
 tg://proxy?server=6adf24.linkwave.io&port=443&secret=ee20e961e9cce4da79d95e399b07edadc13661646632342e6c696e6b776176652e696f
 tg://proxy?server=79.137.174.103&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c
 tg://proxy?server=79.137.196.223&port=13443&secret=eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=81.29.146.111&port=443&secret=989a221c0b63d18c7eb0a74af07a50ec
 tg://proxy?server=82.114.228.74&port=443&secret=ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275
 tg://proxy?server=84.23.53.64&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
 tg://proxy?server=BepHu.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
