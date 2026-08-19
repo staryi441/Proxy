@@ -286,6 +286,8 @@ tg://proxy?server=176.124.207.237&port=443&secret=fad015155defc3a8bd8ebc16b5d2b3
 tg://proxy?server=185.86.146.73&port=443&secret=ee311661b19195683251f8ab1e1e56fb5a6164732e78352e7275
 tg://proxy?server=217.144.156.50&port=7866&secret=eef56a96537bf96aef803a831d7502e4f06d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=37.139.34.141&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275
+tg://proxy?server=45.147.28.134.tspu.top&port=443&secret=ee461851e70bea3c1c7e03c59e82c4b4777a6f6f6d2e7573
+tg://proxy?server=45.147.28.135.tspu.top&port=443&secret=ee8ff6bd31b48abdca2b649440c43ae2517a6f6f6d2e7573
 tg://proxy?server=6adf24.linkwave.io&port=443&secret=ee20e961e9cce4da79d95e399b07edadc13661646632342e6c696e6b776176652e696f
 tg://proxy?server=79.137.174.103&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c
 tg://proxy?server=79.137.196.223&port=13443&secret=eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d
@@ -347,6 +349,7 @@ tg://proxy?server=daJl.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e83
 tg://proxy?server=delta.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=direct.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+tg://proxy?server=durovrazreshil.dreamerlook.ru.tspu.top&port=8443&secret=eed537601bac2be07d541ea6de549fc64770726f78792e647265616d65726c6f6f6b2e7275
 tg://proxy?server=edge.jlpokcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=edge.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=edge.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
@@ -384,6 +387,7 @@ tg://proxy?server=instant.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8
 tg://proxy?server=iran-download.mr-moo.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 tg://proxy?server=jlpokcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65
+tg://proxy?server=l01.antenna-mzt.live.tspu.top&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe6c30312e616e74656e6e612d6d7a742e6c697665
 tg://proxy?server=lab.nowabst.net&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d
 tg://proxy?server=last.konstruktion.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 tg://proxy?server=layer.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
@@ -436,6 +440,7 @@ tg://proxy?server=prod.jlpokcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e83
 tg://proxy?server=proxtstar.live&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
 tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275
 tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275
+tg://proxy?server=proxy.privateproxy.top.tspu.top&port=8443&secret=dd17aca106bf110b8efac6b77a545a8be5
 tg://proxy?server=public.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=pulse.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=pulse1.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
@@ -498,8 +503,3 @@ tg://proxy?server=yeh.topbelka.ru&port=443&secret=ee050c8f82b0877cccd23a08c65f06
 tg://proxy?server=ypoHuJl.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=zenith.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=zone.chunkycorp.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
-tg://proxy?server=l01.antenna-mzt.live.tspu.top&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe6c30312e616e74656e6e612d6d7a742e6c697665
-tg://proxy?server=45.147.28.134.tspu.top&port=443&secret=ee461851e70bea3c1c7e03c59e82c4b4777a6f6f6d2e7573
-tg://proxy?server=45.147.28.135.tspu.top&port=443&secret=ee8ff6bd31b48abdca2b649440c43ae2517a6f6f6d2e7573
-tg://proxy?server=durovrazreshil.dreamerlook.ru.tspu.top&port=8443&secret=eed537601bac2be07d541ea6de549fc64770726f78792e647265616d65726c6f6f6b2e7275
-tg://proxy?server=proxy.privateproxy.top.tspu.top&port=8443&secret=dd17aca106bf110b8efac6b77a545a8be5
