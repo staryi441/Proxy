@@ -85,6 +85,7 @@ https://t.me/proxy?server=ir-ir.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMj
 https://t.me/proxy?server=ir-ir.my-pv.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
 https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=kabab.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=kapopo47.lite64.top&port=443&secret=eece3e2e2820eac71be8f06a9cd893abc06c69746536342e73697465
@@ -140,6 +141,7 @@ https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=7lpC43Uuck8v2u
 https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=surfing.suslik-cloud.homes&port=443&secret=7tf2FGb4JOr-EWpTNVPgG8pzdXJmaW5nLnN1c2xpay1jbG91ZC5ob21lcw
 https://t.me/proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d
+https://t.me/proxy?server=t3.myrka.digital&port=444&secret=7oiId3dmZlVVREQzMyIiERF0My5teXJrYS5kaWdpdGFs
 https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=tele.yandex-api.com&port=443&secret=eef0b914ea542083b6e2347d09cfd61e3e7275747562652e7275
 https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
