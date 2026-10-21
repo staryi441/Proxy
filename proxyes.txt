@@ -16,7 +16,6 @@ https://t.me/proxy?server=178.154.211.47&port=443&secret=ee54701e1686de96a447215
 https://t.me/proxy?server=178.214.211.58&port=443&secret=eea425a48d01f15bfec1f84b7addbc6946636c6f75642e6d61696c2e7275
 https://t.me/proxy?server=178.236.245.98&port=443&secret=ee86b4315adbe231d1a6398b057f9869e86f7a6f6e2e7275
 https://t.me/proxy?server=191.44.113.191&port=443&secret=eea6796bf47be322d2c02b7f384582e1c77a6f6f6d2e7573
-https://t.me/proxy?server=191.44.123.68&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
 https://t.me/proxy?server=193.32.8.197&port=443&secret=eeb14ca4d2308eb6f08567c8d659c7b4506f7a6f6e2e7275
 https://t.me/proxy?server=194.120.230.106&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=209.141.53.16&port=8443&secret=ee43c5ab53316bbc78bf00bf8c3ccf120c636c6f7564666c6172652e636f6d
@@ -136,7 +135,6 @@ https://t.me/proxy?server=t3.nevcodeframe.com&port=443&secret=ee0e4d933242164450
 https://t.me/proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 https://t.me/proxy?server=tele.yandex-api.com&port=443&secret=eef0b914ea542083b6e2347d09cfd61e3e7275747562652e7275
 https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=tg-proxy.link&port=443&secret=7pkV8ve_jWaaVhHokJWFnIphcGkuYXZpdG8ucnU
 https://t.me/proxy?server=tundra.velvetoak.work&port=443&secret=ee845ff639d9f01634c9f1c4dfb079b29274756e6472612e76656c7665746f616b2e776f726b
 https://t.me/proxy?server=two.dedconnect.cc&port=443&secret=eeddb8caf8cc8af58676f5e60385f51c0d74776f2e646564636f6e6e6563742e6363
 https://t.me/proxy?server=ultra.hollowfern.sbs&port=443&secret=ee3af44f54fb6bb24e664d38ffb1a78119756c7472612e686f6c6c6f776665726e2e736273
