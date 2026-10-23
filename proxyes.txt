@@ -30,6 +30,7 @@ https://t.me/proxy?server=87.248.129.137&port=443&secret=ee1603010200010001fc030
 https://t.me/proxy?server=87.248.129.195&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=91.107.171.35&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=94.130.15.206&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
@@ -77,10 +78,10 @@ https://t.me/proxy?server=help.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519
 https://t.me/proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=ir-ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-https://t.me/proxy?server=ir-ir.macauley.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=ir-ir.my-pv.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=ir-ir.simpleelegance-us.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
 https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=karma.lite64.xyz&port=443&secret=ee845ff639d9f01634c9f1c4dfb079b2926b61726d612e6c69746536342e78797a
 https://t.me/proxy?server=kaveh-ahangar.ir.aysghfkzcxg.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -174,7 +175,6 @@ tg://proxy?server=planet.driftquill.click&port=443&secret=eecb0a865fc8ad86721857
 tg://proxy?server=pulse.lite64.xyz&port=443&secret=eecb0a865fc8ad867218577c385baba8cb70756c73652e6c69746536342e78797a
 tg://proxy?server=quartz.hollowfern.sbs&port=443&secret=ee845ff639d9f01634c9f1c4dfb079b29271756172747a2e686f6c6c6f776665726e2e736273
 tg://proxy?server=rain.hollowfern.sbs&port=443&secret=ee845ff639d9f01634c9f1c4dfb079b2927261696e2e686f6c6c6f776665726e2e736273
-tg://proxy?server=relay.surfvpn.app&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070
 tg://proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=saturn.lite64.top&port=443&secret=ee3af44f54fb6bb24e664d38ffb1a7811973617475726e2e6c69746536342e746f70
 tg://proxy?server=sonic.lanternmoss.top&port=443&secret=eecb0a865fc8ad867218577c385baba8cb736f6e69632e6c616e7465726e6d6f73732e746f70
@@ -184,6 +184,7 @@ tg://proxy?server=sun.velvetoak.work&port=443&secret=ee3af44f54fb6bb24e664d38ffb
 tg://proxy?server=swift.pebblewisp.xyz&port=443&secret=eecb0a865fc8ad867218577c385baba8cb73776966742e706562626c65776973702e78797a
 tg://proxy?server=t5.nevcodeframe.com&port=443&secret=ee4e7e658f96af22ada977fa3e2e472e6274352e6e6576636f64656672616d652e636f6d
 tg://proxy?server=t6.nevcodeframe.com&port=443&secret=ee0e4d933242164450da8a7e6b469b629774362e6e6576636f64656672616d652e636f6d
+tg://proxy?server=tg.getsurfvpn.com&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070
 tg://proxy?server=tundra.pebblewisp.xyz&port=443&secret=ee845ff639d9f01634c9f1c4dfb079b29274756e6472612e706562626c65776973702e78797a
 tg://proxy?server=wave.lite64.click&port=443&secret=ee845ff639d9f01634c9f1c4dfb079b292776176652e6c69746536342e636c69636b
 tg://proxy?server=willow.pebblewisp.xyz&port=443&secret=eecb0a865fc8ad867218577c385baba8cb77696c6c6f772e706562626c65776973702e78797a
