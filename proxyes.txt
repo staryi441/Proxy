@@ -23,7 +23,6 @@ https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=95.163.227.253&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 https://t.me/proxy?server=Best.IRAN.ir.awedsj.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-https://t.me/proxy?server=Pooriyaye-vali.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=Tond.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=akenai.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
@@ -55,7 +54,6 @@ https://t.me/proxy?server=ember.velvetoak.work&port=8443&secret=ee845ff639d9f016
 https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=express.velvetoak.work&port=8443&secret=eecb0a865fc8ad867218577c385baba8cb64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=for-persian.speedtestcdn.info&port=8443&secret=dd71889eb517157210d61df330a5f11d95
-https://t.me/proxy?server=freenet.ddnsgeek.com&port=443&secret=eef43cfa0cb4b1d1124643927f09de3c7b70696e7465726573742e636f6d
 https://t.me/proxy?server=front.velvetoak.work&port=8443&secret=ee845ff639d9f01634c9f1c4dfb079b29264726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=gateway.lovely.lat&port=443&secret=eeef7017f26c9ecb71ed8d760999294318786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=googel.alo-otp.info.&port=25565&secret=7hBEYoISSb16xRkTAiDCXQljZG4ueWVrdGFuZXQuY29t
@@ -104,6 +102,7 @@ https://t.me/proxy?server=pinklove.top&port=853&secret=ee54ce330e4690cc297d2b031
 https://t.me/proxy?server=planet.hollowfern.sbs&port=8443&secret=eecb0a865fc8ad867218577c385baba8cb64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=poka38.tidelark.cc&port=443&secret=eeb0a621aecd97816306c197d21a8bf47b706f6b6133382e746964656c61726b2e6363
 https://t.me/proxy?server=poppy-elm.velvetoak.work&port=443&secret=eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465
+https://t.me/proxy?server=por-sorat.ir.awedsj.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=predator-artist.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
