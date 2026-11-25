@@ -1,0 +1,10 @@
+# Каналы-источники публичных MTProto-прокси (по одному в строке, @ не нужен).
+# Строки после # игнорируются.
+TProxyRU
+ProxyMTProto
+ProxyFree_Ru
+tgmtproxylol
+tg_proxyz
+proxy_telegramt
+mtproto6
+mtprotoF
